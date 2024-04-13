@@ -1,1 +1,2 @@
 # nextjs
+first nextjs project!
